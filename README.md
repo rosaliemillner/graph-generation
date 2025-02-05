@@ -7,6 +7,8 @@ Our work was largely based on the article *Neural Graph Generator: Feature-Condi
 
 For more detail on our work, check the document `report-accrographes.pdf`.
 
+## Model
+![Architecture of the proposed model](./figures/model-1.png)
 
 ## **Acknowledgments**
 
